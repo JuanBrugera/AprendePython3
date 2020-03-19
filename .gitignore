@@ -1,5 +1,10 @@
 *
 
-!*.ipynb
 !README.md
 !.gitignore
+!*.ipynb
+
+!*/
+
+.ipynb_checkpoints/
+
