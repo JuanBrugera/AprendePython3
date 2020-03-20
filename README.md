@@ -8,6 +8,26 @@ Motivada por el estado de emergencia que se declaró en España el viernes 13 de
 
 Debido a la gran cantidad de personas afectadas por las medidas tomadas durante tal periodo (que ocasionó una alta desocupación laboral) se decide brindar la oportunidad a la gente de tomar un nuevo camino profesional (o avanzar en el suyo) así como un pasatiempos diario.
 
+## ¿Qué necesito para poder hacerlos?
+- [Python 3.7 o superior](https://www.python.org/downloads/)
+  * Si usas Windows, asegúrate de Marcar la opción de **add Python to PATH** al inicio de la instalación y desactivar la limitación del mismo al final de la instalación si te lo sugiere (Requiere permisos de administrador).
+  * Si usas MacOS o Linux, asegúrate de realizar la instalación como administrador.
+- [Pip](https://www.neoguias.com/como-instalar-pip-python/)
+  * Si bajaste Python del enlace anterior, puedes obviar este paso, ya que viene con el instalador por defecto.
+- [Jupyter Lab](https://jupyter.org/install)
+  * Para instalarlo en Windows, abre PowerShell como Administrador y ejecuta:
+  ```console
+  pip install jupyterlab
+  ```
+  * Para instalarlo en MacOS o Linux, ejecuta:
+  ```sh
+  sudo pip install jupyterlab
+  ```
+  * En todos ellos, para lanzar el entorno ejecuta lo siguiente en PowerShell/Terminal sin permisos de administrador:
+  ```console
+  jupyter lab
+  ```
+
 ## Recopilación de ejercicios
 Para descargar un ejercicio o solución haz clic en el enlace con el botón derecho y selecciona "_Guardar enlace como..._"
 - Ejercicio 1: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%201.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%201.ipynb)
