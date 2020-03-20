@@ -11,7 +11,8 @@ Debido a la gran cantidad de personas afectadas por las medidas tomadas durante 
 ## Recopilación de ejercicios
 Para descargar un ejercicio o solución haz clic en el enlace con el botón derecho y selecciona "_Guardar enlace como..._"
 - Ejercicio 1: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%201.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%201.ipynb)
-- Ejercicio 2: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%202.ipynb) y Solución
+- Ejercicio 2: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%202.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%202.ipynb)
+- Ejercicio 3: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%203.ipynb) y Solución
 
 ## Colabora
 Aunque esta iniciativa es completamente gratuita y creada de un modo altruista, muchas son las personas que se han ofrecido a colaborar de alguna manera.
