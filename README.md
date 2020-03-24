@@ -35,7 +35,8 @@ Para descargar un ejercicio o solución haz clic en el enlace con el botón dere
 - Ejercicio 3: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%203.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%203.ipynb)
 - Ejercicio 4: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%204.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%204.ipynb)
 - Ejercicio 5: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%205.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%205.ipynb)
-- Ejercicio 6: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%206.ipynb) y Solución
+- Ejercicio 6: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%206.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%206.ipynb)
+- Repaso 1: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Repasos/Repaso%201.ipynb) y Solución
 
 ## Colabora
 Aunque esta iniciativa es completamente gratuita y creada de un modo altruista, muchas son las personas que se han ofrecido a colaborar de alguna manera.
