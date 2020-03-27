@@ -38,7 +38,10 @@ Para descargar un ejercicio o solución haz clic en el enlace con el botón dere
 - Ejercicio 6: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%206.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%206.ipynb)
 - Repaso 1: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Repasos/Repaso%201.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Repasos/Soluci%C3%B3n%20-%20Repaso%201.ipynb)
 - Ejercicio 7: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%207.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%207.ipynb)
-- Ejercicio 8: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%208.ipynb) y Solución
+- Ejercicio 8: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%208.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%208.ipynb)
+- Ejercicio 9\*: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%209.ipynb) y Solución
+
+(\*) Es necesario crear una carpeta llamada *mislibrerias* en la carpeta donde tengamos nuestros notebooks y meter ahí el fichero [entradas.py](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/mislibrerias/entradas.py).
 
 ## Colabora
 Aunque esta iniciativa es completamente gratuita y creada de un modo altruista, muchas son las personas que se han ofrecido a colaborar de alguna manera.
