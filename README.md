@@ -42,9 +42,12 @@ Para descargar un ejercicio o solución haz clic en el enlace con el botón dere
 - Ejercicio 9\*: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%209.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%209.ipynb)
 - Ejercicio 10: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2010.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%2010.ipynb)
 - Ejercicio 11: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2011.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%2011.ipynb)
-- Ejercicio 12: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2012.ipynb) y Solución
+- Ejercicio 12: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2012.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%2012.ipynb)
+- Ejercicio 13\*: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2013.ipynb) y Solución
 
-(\*) Es necesario crear una carpeta llamada *mislibrerias* en la carpeta donde tengamos nuestros notebooks y meter ahí el fichero [entradas.py](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/mislibrerias/entradas.py).
+(\*) Es necesario crear una carpeta llamada *mislibrerias* en la carpeta donde tengamos nuestros notebooks y meter ahí los siguientes ficheros:
+- A partir del ejercicio 9: [entradas.py](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/mislibrerias/entradas.py).
+- A partir del ejercicio 13: [textos.py](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/mislibrerias/textos.py).
 
 ## Colabora
 Aunque esta iniciativa es completamente gratuita y creada de un modo altruista, muchas son las personas que se han ofrecido a colaborar de alguna manera.
