@@ -4,6 +4,7 @@
 !.gitignore
 !*.ipynb
 !*.py
+!*.csv
 
 !*/
 
