@@ -46,11 +46,15 @@ Para descargar un ejercicio o solución haz clic en el enlace con el botón dere
 - Ejercicio 13\*: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2013.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%2013.ipynb)
 - Repaso 2: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Repasos/Repaso%202.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Repasos/Soluci%C3%B3n%20-%20Repaso%202.ipynb)
 - Ejercicio 14: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2014.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%2014.ipynb)
-- Ejercicio 15: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2015.ipynb) y Solución
+- Ejercicio 15: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2015.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%2015.ipynb)
+- Ejercicio 16**: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2016.ipynb) y Solución
 
 (\*) Es necesario crear una carpeta llamada *mislibrerias* en la carpeta donde tengamos nuestros notebooks y meter ahí los siguientes ficheros:
 - A partir del ejercicio 9: [entradas.py](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/mislibrerias/entradas.py).
 - A partir del ejercicio 13: [textos.py](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/mislibrerias/textos.py).
+
+(\*\*) Para realizar el ejercicio, necesitas bajar el siguiente fichero:
+- A partir del ejercicio 16: [registros.csv](https://github.com/JuanBrugera/AprendePython3/raw/master/Otros/registros.csv).
 
 ## Colabora
 Aunque esta iniciativa es completamente gratuita y creada de un modo altruista, muchas son las personas que se han ofrecido a colaborar de alguna manera.
