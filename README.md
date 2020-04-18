@@ -52,7 +52,7 @@ Para descargar un ejercicio o solución haz clic en el enlace con el botón dere
 - Repaso 3: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Repasos/Repaso%203.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Repasos/Soluci%C3%B3n%20-%20Repaso%203.ipynb)
 - Ejercicio 18: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2018.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%2018.ipynb)
 - Ejercicio 19: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2019.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%2019.ipynb)
-- Ejercicio 20: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2020.ipynb) y Solución
+- Ejercicio 20**: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2020.ipynb) y Solución
 
 (\*) Es necesario crear una carpeta llamada *mislibrerias* en la carpeta donde tengamos nuestros notebooks y meter ahí los siguientes ficheros:
 - A partir del ejercicio 9: [entradas.py](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/mislibrerias/entradas.py).
@@ -60,6 +60,7 @@ Para descargar un ejercicio o solución haz clic en el enlace con el botón dere
 
 (\*\*) Para realizar el ejercicio, necesitas bajar el siguiente fichero:
 - A partir del ejercicio 16: [registros.csv](https://github.com/JuanBrugera/AprendePython3/raw/master/Otros/registros.csv).
+- A partir del ejercicio 20: [bebidas.csv](https://github.com/JuanBrugera/AprendePython3/raw/master/Otros/bebidas.csv).
 
 ## Colabora
 Aunque esta iniciativa es completamente gratuita y creada de un modo altruista, muchas son las personas que se han ofrecido a colaborar de alguna manera.
