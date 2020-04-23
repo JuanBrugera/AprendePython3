@@ -5,6 +5,7 @@
 !*.ipynb
 !*.py
 !*.csv
+!*.xls
 
 !*/
 
