@@ -55,6 +55,7 @@ Para descargar un ejercicio o solución haz clic en el enlace con el botón dere
 - Ejercicio 20**: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2020.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%2020.ipynb)
 - Ejercicio 21: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2021.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%2021.ipynb)
 - Ejercicio 22**: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2022.ipynb) y [Solución](https://github.com/JuanBrugera/AprendePython3/raw/master/Soluciones/Soluci%C3%B3n%20-%20Ejercicio%2022.ipynb)
+- Ejercicio 23: [Enunciado](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/Ejercicio%2023.ipynb) y Solución
 
 (\*) Es necesario crear una carpeta llamada *mislibrerias* en la carpeta donde tengamos nuestros notebooks y meter ahí los siguientes ficheros:
 - A partir del ejercicio 9: [entradas.py](https://github.com/JuanBrugera/AprendePython3/raw/master/Ejercicios/mislibrerias/entradas.py).
